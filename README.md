@@ -26,7 +26,6 @@ export function middleware(request) {
   form-action 'self';
   frame-ancestors 'none';
   upgrade-insecure-requests;
-  connect-src 'self'; 
 `;
 
   // Replace newline characters and spaces
