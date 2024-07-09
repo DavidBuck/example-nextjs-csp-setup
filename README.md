@@ -98,11 +98,11 @@ The CSP should now work in development and production modes without error.
 
 # References
 
-(Middleware Setup)[https://nextjs.org/docs/pages/building-your-application/configuring/content-security-policy#adding-a-nonce-with-middleware]
+[Middleware Setup](https://nextjs.org/docs/pages/building-your-application/configuring/content-security-policy#adding-a-nonce-with-middleware)
 
-(Remove Next/image inline style)[https://github.com/vercel/next.js/issues/45184#issuecomment-1988319088]
+[Remove Next/image inline style](https://github.com/vercel/next.js/issues/45184#issuecomment-1988319088)
 
-Issues relating to next/image, inline syles and CSP - (#61388)[https://github.com/vercel/next.js/issues/61388], (#45184)[https://github.com/vercel/next.js/issues/45184].
+Issues relating to next/image, inline syles and CSP - [#61388](https://github.com/vercel/next.js/issues/61388), [#45184](https://github.com/vercel/next.js/issues/45184).
 
 
 
